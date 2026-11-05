@@ -1,0 +1,7 @@
+{
+  "name": "Falcha Filmation Studio",
+  "description": "Falcha Filmation Studio – Storytelling in Motion. Dedicated to high-caliber documentaries, commercials, and short films.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
